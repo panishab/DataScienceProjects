@@ -1,6 +1,6 @@
  # Making Direct Marketing Strategy More Cost Effective
 ## Project Overview
-Created a model for a national veteran's organization to make their direct marketing strategy more cost effective and forecast which of their donors need to receive mail campaign letters. 
+Created a  Prerdictive model for a national veteran's organization to make their direct marketing strategy more cost effective and forecast which of their donors need to receive mail campaign letters. 
 ## Datasets
 Database of 13 million donors, managing to represent donors and non- donors equally. 
 incentives to maximize net profit.
