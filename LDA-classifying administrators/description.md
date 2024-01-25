@@ -7,7 +7,7 @@ The data is taken from (https://www.dropbox.com/s/mihi7xnxrs9qv5r/SystemAdminist
 1.  Exploratory Data Analysis was done
 2.  Run a discriminant analysis for  entire datasets for training with both predictors.
 3.  Finds a misclassified percentage of administrators  who completed a task.
-4.  computed a decison funtion(classification score) and class probabilities for new administrators who had 4 mounth experience and 6 credits of trining.
+4.  computed a decison funtion(classification score) and class probabilities for new administrators who had 4 month experience and 6 credits of training.
 5.  Then, again, partion the data into training and testing sets andrun a discriminant and Neural net.
 6.  Compare their findings.
 ## Findings
