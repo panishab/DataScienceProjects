@@ -1,7 +1,7 @@
 ## Objective
 The goal of this project is to  predict the price of a used Toyota Corolla based on its specification.
 ## Data
-Used  this data ( datahttps://www.dropbox.com/s/wzmj60pufhysc9r/ToyotaCorolla.csv?dl=1) with 1436 records and details on 38 attributes.
+Used  this data ToyotaCorolla.csv( datahttps://www.dropbox.com/s/wzmj60pufhysc9r/ToyotaCorolla.csv?dl=1)  provided by the instructor. The data has 1436 records and details on 38 attributes.
  ## Solved Question:
  1. Fitting the neural network model to the data.
  2. Using single hidden layer with 2 nodes.
