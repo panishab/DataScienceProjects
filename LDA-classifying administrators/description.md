@@ -1,6 +1,6 @@
 
 ## Objective and Scenario
-A management consultant is interested in discriminating  between the adminstrators who are able to complete the task in given time and those who are not.
+A management consultant is interested in discriminating  between the administrators who are able to complete the task in given time and those who are not.
 ## Data
 The data is taken from (https://www.dropbox.com/s/mihi7xnxrs9qv5r/SystemAdministrators.csv?dl=1) which is provided by the instructor. The data consist of 75 rows and  3 columns. The three columns contain the two dependent variables (Training and Experience) and one independent variable(Completed task which is either Yes or NO).
 ## Sloved Questions:
